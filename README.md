@@ -25,26 +25,11 @@
 
 ## 🛠 Skills & Technologies
 
-### 💻 Development
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=4CC9F0)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=F72585)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=4361EE)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=4CC9F0)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=3ECF8E)
-![Express](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4CC9F0)
+## 💻 Tech Stack
 
-
-### ⚙️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=4CC9F0)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=F7DF1E)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=github-actions&logoColor=F72585)
-![Nginx](https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=3ECF8E)
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=F59E0B)
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,react,nextjs,nodejs,express,mongodb,postgres,tailwind,bootstrap,html,css,git,github,linux,docker,nginx,aws,vscode,postman,vercel&theme=dark" />
+</p>
 
 ---
 
