@@ -1,19 +1,17 @@
 <h1 align="center"> Ammar Ahmad </h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=4CC9F0&center=true&vCenter=true&width=750&lines=Full-Stack+MERN+Developer;DevOps+Enthusiast;Building+scalable+systems;Exploring+AI+and+automation" />
+</p>
+
+
+<p align="center">
 🚀 <span style="color:#4CC9F0;">Full-Stack MERN Developer</span> |
 ⚙️ <span style="color:#B5179E;">DevOps Enthusiast</span> |
 🎓 <span style="color:#7209B7;">Computer Engineering Student</span>
 </p>
 
-<p align="center">
-  <a href="https://github.com/VirtuousTreaty">
-    <img src="https://img.shields.io/badge/GitHub-VirtuousTreaty-0D1117?style=for-the-badge&logo=github&logoColor=F72585">
-  </a>
-  <a href="https://www.linkedin.com/in/yorha/">
-    <img src="https://img.shields.io/badge/LinkedIn-yorha-0D1117?style=for-the-badge&logo=linkedin&logoColor=4CC9F0">
-  </a>
-</p>
+
 
 ---
 
@@ -76,7 +74,14 @@
 ---
 
 ## 🤝 Connect With Me
-- GitHub: https://github.com/VirtuousTreaty  
-- LinkedIn: https://www.linkedin.com/in/yorha/
+<p align="center">
+  <a href="https://github.com/VirtuousTreaty" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-VirtuousTreaty-%230d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=F72585"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/yorha/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-yorha-%230d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4CC9F0"/>
+  </a>
+</p>
 
 ---
