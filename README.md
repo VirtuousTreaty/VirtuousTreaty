@@ -32,8 +32,12 @@
 </p>
 
 ## 📊 GitHub Analytics
-
-![Metrics](https://raw.githubusercontent.com/VirtuousTreaty/VirtuousTreaty/main/github-metrics.svg)
+<div align="center">
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=VirtuousTreaty&theme=tokyonight&background=0D1117"
+    style="box-shadow:0 0 25px #bb86fc, 0 0 50px #bb86fc;border-radius:12px;"
+  />
+</div>
 
 
 ---
