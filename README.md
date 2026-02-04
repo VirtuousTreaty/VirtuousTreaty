@@ -31,16 +31,9 @@
   <img src="https://skillicons.dev/icons?i=cpp,python,javascript,react,nextjs,nodejs,express,mongodb,postgres,tailwind,bootstrap,html,css,git,github,linux,docker,nginx,aws,vscode,postman,vercel&theme=dark" />
 </p>
 
----
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VirtuousTreaty/VirtuousTreaty/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VirtuousTreaty/VirtuousTreaty/main/profile-summary-card-output/github_dark/3-stats.svg" width="45%"/>
-  <img src="https://raw.githubusercontent.com/VirtuousTreaty/VirtuousTreaty/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="45%"/>
-</p>
+![Metrics](https://raw.githubusercontent.com/VirtuousTreaty/VirtuousTreaty/main/metrics.svg)
 
 ---
 
