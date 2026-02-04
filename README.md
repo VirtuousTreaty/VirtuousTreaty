@@ -33,7 +33,8 @@
 
 ## 📊 GitHub Analytics
 
-![Metrics](https://raw.githubusercontent.com/VirtuousTreaty/VirtuousTreaty/main/metrics.svg)
+![Metrics](https://raw.githubusercontent.com/VirtuousTreaty/VirtuousTreaty/main/github-metrics.svg)
+
 
 ---
 
