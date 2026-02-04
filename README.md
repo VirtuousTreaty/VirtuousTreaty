@@ -33,15 +33,8 @@
 
 ---
 
-## 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/VirtuousTreaty/VirtuousTreaty/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VirtuousTreaty/VirtuousTreaty/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="45%"/>
-  <img src="https://raw.githubusercontent.com/VirtuousTreaty/VirtuousTreaty/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="45%"/>
 </p>
 
 <p align="center">
