@@ -36,12 +36,17 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VirtuousTreaty&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VirtuousTreaty&theme=radical" height="170"/>
+  <img src="https://raw.githubusercontent.com/VirtuousTreaty/VirtuousTreaty/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirtuousTreaty&layout=compact&theme=radical"/>
+  <img src="https://raw.githubusercontent.com/VirtuousTreaty/VirtuousTreaty/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="45%"/>
+  <img src="https://raw.githubusercontent.com/VirtuousTreaty/VirtuousTreaty/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VirtuousTreaty/VirtuousTreaty/main/profile-summary-card-output/github_dark/3-stats.svg" width="45%"/>
+  <img src="https://raw.githubusercontent.com/VirtuousTreaty/VirtuousTreaty/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="45%"/>
 </p>
 
 ---
