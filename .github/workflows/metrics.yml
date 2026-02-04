@@ -13,8 +13,22 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: VirtuousTreaty
-          template: classic
-          base: header, activity, community, repositories
+
+          template: terminal
+          config_timezone: Asia/Kolkata
+
+          base: header, activity, repositories
+
           plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_details: percentage
+          plugin_languages_limit: 6
+
+          plugin_isocalendar: yes
+
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+
+          plugin_lines: yes
+
+          plugin_achievements: yes
+          plugin_achievements_display: compact
