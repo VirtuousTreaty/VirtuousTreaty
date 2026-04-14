@@ -1,13 +1,13 @@
 <h1 align="center"> Ammar Ahmad </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=4CC9F0&center=true&vCenter=true&width=750&lines=Full-Stack+MERN+Developer;DevOps+Enthusiast;Building+scalable+systems;Exploring+AI+and+automation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=4CC9F0&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+(MERN%2FNext.js);AI+%26+ML+Enthusiast;Building+Scalable+Web+Applications;Exploring+LLMs+%26+Automation" />
 </p>
 
 
 <p align="center">
 🚀 <span style="color:#4CC9F0;">Full-Stack MERN Developer</span> |
-⚙️ <span style="color:#B5179E;">DevOps Enthusiast</span> |
+⚙️ <span style="color:#B5179E;">AI Agent & LLM Developer</span> |
 🎓 <span style="color:#7209B7;">Computer Engineering Student</span>
 </p>
 
