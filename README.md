@@ -1,7 +1,7 @@
 <h1 align="center"> Ammar Ahmad </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=4CC9F0&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+(MERN%2FNext.js);AI+%26+ML+Enthusiast;Building+Scalable+Web+Applications;Exploring+LLMs+%26+Automation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=4CC9F0&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+and+ML+Enthusiast;Building+Scalable+Web+Applications;Exploring+Automation" />
 </p>
 
 
