@@ -1,42 +1,35 @@
 <h1 align="center"> Ammar Ahmad </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=4CC9F0&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+and+ML+Enthusiast;Building+Scalable+Web+Applications;Exploring+Automation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=4CC9F0&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+LLM+Engineer;Building+Intelligent+Agents;Scalable+Web+Applications" />
 </p>
-
 
 <p align="center">
 🚀 <span style="color:#4CC9F0;">Full-Stack MERN Developer</span> |
-⚙️ <span style="color:#B5179E;">AI Agent & LLM Developer</span> |
+⚙️ <span style="color:#B5179E;">AI & LLM Engineer</span> |
 🎓 <span style="color:#7209B7;">Computer Engineering Student</span>
 </p>
-
-
 
 ---
 
 ## 🧠 About Me
-- I build real-world full-stack products  
-- Learning DevOps, CI/CD & cloud fundamentals  
-- Focused on scalable systems & clean architecture  
-- Consistently improving problem-solving & CS core  
+- I build real-world full-stack products powered by generative AI  
+- Developing intelligent agent workflows, RAG pipelines, and LLM architectures  
+- Focused on scalable backend integration & clean code practices  
+- Consistently improving problem-solving & CS core fundamentals  
 
 ---
 
-## 🛠 Skills & Technologies
-
-## 💻 Tech Stack
+## 💻 Tech Stack & Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,pytorch,javascript,react,nextjs,nodejs,fastapi,prisma,ai,express,mongodb,postgres,tailwind,figma,npm,mysql,bootstrap,html,css,git,github,linux,docker,nginx,aws,vscode,postman,vercel,linkedin&theme=dark" />
 </p>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=VirtuousTreaty&theme=tokyonight&background=0D1117" alt="VirtuousTreaty's GitHub Streak" />
 </div>
-
 
 ---
 
@@ -46,9 +39,10 @@
 ---
 
 ## 🌱 Currently Working On
-- DevOps foundations (Docker, CI/CD, Linux)  
-- Scalable backend systems  
-- DSA + system fundamentals  
+- Multi-Agent LLM Orchestration (LangGraph / LangChain)  
+- Context-Aware RAG (Retrieval-Augmented Generation) systems  
+- Scalable AI backend architectures  
+- DSA + core system fundamentals  
 
 ---
 
@@ -62,5 +56,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-yorha-%230d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4CC9F0"/>
   </a>
 </p>
-
----
