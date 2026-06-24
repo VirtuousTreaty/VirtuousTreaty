@@ -28,7 +28,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,react,nextjs,nodejs,express,mongodb,postgres,tailwind,bootstrap,html,css,git,github,linux,docker,nginx,aws,vscode,postman,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,pytorch,javascript,react,nextjs,nodejs,fastapi,prisma,ai,express,mongodb,postgres,tailwind,figma,npm,mysql,bootstrap,html,css,git,github,linux,docker,nginx,aws,vscode,postman,vercel,linkedin&theme=dark" />
 </p>
 
 ## 📊 GitHub Analytics
